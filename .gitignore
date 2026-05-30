@@ -1,0 +1,13 @@
+# data & outputs
+data/
+work_dirs/
+*.pth
+*.pt
+*.log
+*.out
+*.pkl
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/

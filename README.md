@@ -1,7 +1,10 @@
-# FreqKD: Frequency-Decoupled Cross-Modal Knowledge Distillation
+# Match the Amplitude, Not the Layout: Phase-Aware Distillation from RGB Foundation Models to Infrared Detection
 
-Anonymous code release for the BMVC submission *"FreqKD: Frequency-Decoupled
-Cross-Modal Knowledge Distillation for Infrared Object Detection."*
+Official code release for **FreqKD** (WACV).
+
+<p align="center">
+  <img src="resources/freqkd_overview.png" alt="FreqKD overview" width="100%">
+</p>
 
 This repository is built on top of MMDetection 3.x. Only the components below
 are specific to FreqKD; the remainder is the standard MMDetection codebase.
